@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/poster-analysis-app/static/css/main.3b71cc2a.css",
+    "main.js": "/poster-analysis-app/static/js/main.36a22f44.js",
+    "static/js/453.43942c71.chunk.js": "/poster-analysis-app/static/js/453.43942c71.chunk.js",
+    "index.html": "/poster-analysis-app/index.html",
+    "main.3b71cc2a.css.map": "/poster-analysis-app/static/css/main.3b71cc2a.css.map",
+    "main.36a22f44.js.map": "/poster-analysis-app/static/js/main.36a22f44.js.map",
+    "453.43942c71.chunk.js.map": "/poster-analysis-app/static/js/453.43942c71.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b71cc2a.css",
+    "static/js/main.36a22f44.js"
+  ]
+}
